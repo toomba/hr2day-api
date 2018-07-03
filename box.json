@@ -1,0 +1,86 @@
+{
+    "name":"hr2day API",
+    "version":"1.0.0",
+    "author":"Toomba",
+    "location":"https://github.com/toomba/hr2day-api/archive/1.0.0.zip",
+    "directory":"",
+    "createPackageDirectory":true,
+    "packageDirectory":"",
+    "homepage":"https://github.com/toomba/hr2day-api",
+    "documentation":"",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/toomba/hr2day-api"
+    },
+    "bugs":"",
+    "slug":"hr2day-api",
+    "shortDescription":"CF Version of the hr2day API",
+    "description":"",
+    "instructions":"",
+    "changelog":"",
+    "type":"",
+    "keywords":"hr2day",
+    "private":false,
+    "engines":[
+        {
+            "type":"",
+            "version":""
+        }
+    ],
+    "defaultEngine":"",
+    "defaultPort":0,
+    "projectURL":"",
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "contributors":[
+        
+    ],
+    "dependencies":{
+        
+    },
+    "devDependencies":{
+        
+    },
+    "installPaths":{
+        "hr2day":"models/hr2day"
+    },
+    "scripts":{
+        
+    },
+    "ignore":[
+        
+    ],
+    "testbox":{
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "labels":[
+            
+        ],
+        "reporter":"",
+        "reporterResults":"",
+        "bundles":[
+            ""
+        ],
+        "directory":{
+            "mapping":"",
+            "recurse":true
+        },
+        "watchers":[
+            
+        ],
+        "notify":{
+            "emails":[
+                
+            ],
+            "growl":"",
+            "URL":""
+        }
+    }
+}
